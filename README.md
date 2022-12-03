@@ -9,12 +9,12 @@
 
 
 ### tecnologias ensinadas neste curso:
-- Node
+- **Node**
   - Express
   - Web services
-- React.JS
+- **React.JS**
   - Criação do Front-end
   - integração com webservice
-- React Native
+- **React Native**
   - Criação do Front-end
   - integração com webservice
