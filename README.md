@@ -5,7 +5,7 @@
 #### Nome do curso:
 - Formação Node e React - Extensão Tecnológica
 
-### tecnologias usadas neste curso:
+### tecnologias ensinadas neste curso:
 - Node
 - Express
 - React (Web)
